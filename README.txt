@@ -1,1 +1,1 @@
-Version 4.3 prototype. Replace index.html in GitHub repository. Test using a new innings. Not approved for official scoring.
+V4.3.2: Number prompts start empty; required values validated; match-detail text selected on focus. Prototype, test before official scoring.
